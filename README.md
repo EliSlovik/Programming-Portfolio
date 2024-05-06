@@ -21,6 +21,10 @@ Working Calculator Project with advanced math functions and mouse inputs
 ![Graphics](https://github.com/EliSlovik/Programming1/blob/main/images/clc1.png?raw=true)
 
 [Source Code](https://github.com/EliSlovik/Programming1/blob/main/src/Calculator_FINAL.zip)
+### Group Project
+An in progress poker gameplay variation against the dealer, with hand strength checks. An initiated 5 community cards and 2 individual cards for the player and dealer
+[Link to Group Repo](https://github.com/EliSlovik/poker-i-barley-know-her)
+![Graphics](https://github.com/EliSlovik/Programming1/blob/main/images/Screenshot%202024-05-06%20at%2011.24.07%20AM.png)
 ### Snake Project
 A Snake inspired game with arrow functions, wall checks, and sofisticated turning mechanisms
 ![Gameplay](https://github.com/EliSlovik/Programming1/blob/main/images/Snake_Play)
