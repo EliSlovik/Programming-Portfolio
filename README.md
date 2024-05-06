@@ -28,5 +28,5 @@ An in progress poker gameplay variation against the dealer, with hand strength c
 ### Snake Project
 A Snake inspired game with arrow functions, wall checks, and sofisticated turning mechanisms
 ![Gameplay](https://github.com/EliSlovik/Programming1/blob/main/images/Snake_Play)
-
+[Link to Group Repo](https://github.com/EliSlovik/Snake-Game)
 [Source Code](https://github.com/EliSlovik/Snake-Game/blob/main/src/updatedmain.py)
