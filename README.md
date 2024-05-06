@@ -21,11 +21,8 @@ Working Calculator Project with advanced math functions and mouse inputs
 ![Graphics](https://github.com/EliSlovik/Programming1/blob/main/images/clc1.png?raw=true)
 
 [Source Code](https://github.com/EliSlovik/Programming1/blob/main/src/Calculator_FINAL.zip)
-### SpaceGame
-Object oriented graphical game with sound and keyboard/mouse listeners
+### Snake Project
+A Snake inspired game with arrow functions, wall checks, and sofisticated turning mechanisms
+![Gameplay](https://github.com/EliSlovik/Programming1/blob/main/images/Snake_Play)
 
-### SpaceGame
-Object oriented graphical game with sound and keyboard/mouse listeners
-
-### SpaceGame
-Object oriented graphical game with sound and keyboard/mouse listeners
+[Source Code](https://github.com/EliSlovik/Snake-Game/blob/main/src/updatedmain.py)
