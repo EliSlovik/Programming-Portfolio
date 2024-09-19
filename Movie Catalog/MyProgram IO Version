@@ -5,13 +5,14 @@ import java.io.FileInputStream;
 import java.io.ObjectOutputStream;
 import java.io.ObjectInputStream;
 import java.io.IOException;
+import java.io.Serializable;
 public class MyProgram {
+	@SuppressWarnings("unchecked")
     public static void main(String[] args) {
         ArrayList<movie> movielist = new ArrayList<>();
-        String outputfile = "output.txt";
         Scanner scanner = new Scanner(System.in);
         boolean keepadding = true;
-	String filename = "movies.txt";
+		String filename = "movies.txt";
         while(keepadding) {
             System.out.println("Welcome to your movie catalog! To add a movie, type 1. To find a movie, type 2. To filter movies, type 3");
             int useroption = scanner.nextInt();
@@ -36,14 +37,13 @@ public class MyProgram {
                 newmovie.haveWatched = false; 
             }
             movielist.add(newmovie);
-            try {
-		FileOutputStream test = new FileOutputStream(filename);
-                ObjectOutputStream output = new ObjectOutputStream(test);
-		String s = "hello";
-        // output.writeObject(newmovie);
-		output.writeObject(s);
-                output.close();
-            }catch(IOException ioe) {
+            try (FileOutputStream fileOut = new FileOutputStream(filename);
+                 ObjectOutputStream out = new ObjectOutputStream(fileOut))
+                {
+                    out.writeObject(movielist);
+                    System.out.println("Movie saved successfully.");
+                }
+            catch(IOException ioe) {
               System.out.println("Error saving to file");
             }
             }else if (useroption == 2) {
@@ -51,15 +51,15 @@ public class MyProgram {
                 //     String data = filescan.nextLine();
                 //     System.out.println(data);
                 // }
-                movie e = null;
-                try {
-                        String ss; 
-						ObjectInputStream input = new ObjectInputStream(new FileInputStream(filename));//
-						e = (movie) input.readObject();
-						e.print(e);
-						//System.out.println("" + (String) input.readObject());
-                        input.close();
-
+                ArrayList<movie>  e;
+                try (ObjectInputStream input = new ObjectInputStream(new FileInputStream(filename)))
+                {
+					e = (ArrayList<movie>) input.readObject(); 
+					for (int i = 0; i<e.size(); i++) {
+						movie j = e.get(i);
+						j.print(j);
+					}
+					input.close();
                 }catch(IOException ioe) {
                     System.out.println("error reading file");
                 }catch(ClassNotFoundException CNFE) {
