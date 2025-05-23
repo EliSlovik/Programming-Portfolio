@@ -7,6 +7,11 @@
 * Computer Programming 2: Python
 * Computer Programming 2: Java
 * Advanced Computer Programming
+
+## Tech Related Competitions
+* FIRST Tech Competition State Competitor
+* TSA Awards:
+** Technology Bowl(1st Place)
 ## Group Project 24-25
 
 
