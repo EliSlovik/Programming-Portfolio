@@ -19,7 +19,7 @@ This is an app using an online library and JSON Arrays to convert text inputed i
 [Source Code](https://github.com/EliSlovik/Programming1/blob/main/src/SynonymThing.zip)
 ### Array List Sorting Visual Algorithm
 This is a short animation that sorts a random array list through selection sort
-[Source Code](https://github.com/EliSlovik/Programming1/blob/main/src/ArrayListSort.zip)
+[Source Code](https://github.com/EliSlovik/Programming1/blob/main/src/arraylistsort.zip)
 ## Individual Projects 23-24
 
 ### SpaceGame
