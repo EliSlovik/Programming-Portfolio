@@ -16,7 +16,7 @@
 ### Viral Wave
 Viral Wave is a spreading simulation game based on the popularity of trends chosen by the user. These trends spread throughout a map of New York State by county, based on a variety of demographics gathered from the United States Census. The project consists of a hierarchy of inherited and abstract classes, each representing different trends. The game also has upgrades, which affect spreading rate based on demographics.
 ![Logo](https://github.com/EliSlovik/Programming1/blob/main/images/Logo.png?raw=true)
-
+[Link to Repository](https://github.com/EliSlovik/Group-Project)
 
 ## Individual Projects 24-25
 ### Traffic Simulator Puzzle Game
