@@ -11,7 +11,7 @@
 ## Tech Related Competitions
 * FIRST Tech Competition State Competitor
 * TSA Awards:
-** Technology Bowl(1st Place)
+- Technology Bowl(1st Place)
 ## Group Project 24-25
 
 
