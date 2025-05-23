@@ -11,7 +11,7 @@
 ## Tech Related Competitions
 * _FIRST Tech Competition_ State Competitor
 * _TSA_ Awards:
-- Technology Bowl(1st Place)
+ - Technology Bowl(1st Place)
 ## Group Project 24-25
 
 
