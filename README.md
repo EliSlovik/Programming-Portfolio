@@ -1,13 +1,19 @@
-# Eli Slovik's Programming Portfolio 23-24
- Skyline High School Freshman Year
+# Eli Slovik's Programming Portfolio
+ Skyline High School
 
 ## USOE Tech Certifications
 * Computer Programming 1
 * Robotics 1
 * Computer Programming 2: Python
 * Computer Programming 2: Java
+* Advanced Computer Programming
+## Group Project 24-25
 
-## Group Project 23-24
+
+## Individual Projects 24-25
+
+### Input Output Comprehension
+This is an app using an online library and JSON Arrays to convert text inputed into synonyms in an output file
 
 ## Individual Projects 23-24
 
