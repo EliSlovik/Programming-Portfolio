@@ -9,8 +9,8 @@
 * Advanced Computer Programming
 
 ## Tech Related Competitions
-* FIRST Tech Competition State Competitor
-* TSA Awards:
+* _FIRST Tech Competition_ State Competitor
+* _TSA_ Awards:
 - Technology Bowl(1st Place)
 ## Group Project 24-25
 
