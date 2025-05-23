@@ -29,7 +29,7 @@ This is a movie catalog object oriented program. This application is for storing
 
 ![GamePlay](https://github.com/EliSlovik/Programming1/blob/main/images/Movie_Screenshot.png?raw=true)
 
-[Source Code](https://github.com/EliSlovik/Programming1/blob/main/Movie_Catalog)
+[Source Code](https://github.com/EliSlovik/Programming1/blob/main/Movie-Catalog)
 ### Input Output Comprehension
 This is an app using an online library and JSON Arrays to convert text inputed into synonyms in an output file
 
