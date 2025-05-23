@@ -11,7 +11,9 @@
 
 
 ## Individual Projects 24-25
-
+### Movie Catalog
+This is a movie catalog object oriented program. This application is for storing movies into a text file database and sorting them by genre, rating, and their 'watched' status. The object 'movie' has several paramenters that are inputed by the user whenever a new movie is added. The user can also sort movies and input a genre, and using a bubble sort, it prints all movies of the requested genre in order of rating, from high to low.
+![GamePlay](https://github.com/EliSlovik/Programming1/blob/main/images/Movie_Screenshot.png?raw=true)
 ### Input Output Comprehension
 This is an app using an online library and JSON Arrays to convert text inputed into synonyms in an output file
 
