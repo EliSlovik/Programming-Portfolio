@@ -17,6 +17,9 @@ This is a movie catalog object oriented program. This application is for storing
 ### Input Output Comprehension
 This is an app using an online library and JSON Arrays to convert text inputed into synonyms in an output file
 [Source Code](https://github.com/EliSlovik/Programming1/blob/main/src/SynonymThing.zip)
+### Array List Sorting Visual Algorithm
+This is a short animation that sorts a random array list through selection sort
+[Source Code](https://github.com/EliSlovik/Programming1/blob/main/src/ArrayListSort.zip)
 ## Individual Projects 23-24
 
 ### SpaceGame
